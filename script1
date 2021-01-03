@@ -4,7 +4,7 @@ git add .
 git commit -m "Adding new file to remote repo"
 git branch Node
 git checkout -b Node
-touch newfile
+touch newfil
 git add .
 git commit -m "Added new file in Node branch"
  --set-upstream origin Node
